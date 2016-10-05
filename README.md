@@ -8,5 +8,5 @@ https://notify-bot.line.me
 
 1. https://notify-bot.line.me/ で、アクセストークンを取得し、botをグループに招待する。
 1. LineNotify::TOKENにトークンをセットする。
-1. `bundle install`
-1. `bundle exec app.rb`
+1. `client = LineNotify.new
+    client.push('ほげほげ')`
