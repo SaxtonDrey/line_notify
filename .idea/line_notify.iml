@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundler" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="diff-lcs (vbundled(1.2.5), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/diff-lcs-1.2.5) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/diff-lcs-1.2.5/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/diff-lcs-1.2.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/diff-lcs-1.2.5/autotest" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/diff-lcs-1.2.5/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/diff-lcs-1.2.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/diff-lcs-1.2.5/autotest" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="faraday (vbundled(0.9.2), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/faraday-0.9.2) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/faraday-0.9.2/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/faraday-0.9.2/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="multipart-post (vbundled(2.0.0), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/multipart-post-2.0.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/multipart-post-2.0.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/multipart-post-2.0.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rake (vbundled(10.5.0), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/rake-10.5.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rake-10.5.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rake-10.5.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rake-10.5.0/rakelib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rake-10.5.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rake-10.5.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rake-10.5.0/rakelib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec (vbundled(3.5.0), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/rspec-3.5.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-3.5.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-3.5.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-core (vbundled(3.5.4), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/rspec-core-3.5.4) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-core-3.5.4/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-core-3.5.4/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-core-3.5.4/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-core-3.5.4/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-expectations (vbundled(3.5.0), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/rspec-expectations-3.5.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-expectations-3.5.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-expectations-3.5.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-mocks (vbundled(3.5.0), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/rspec-mocks-3.5.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-mocks-3.5.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-mocks-3.5.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-support (vbundled(3.5.0), /Users/200314/work/line_notify/vendor/bundler/ruby/2.3.0/gems/rspec-support-3.5.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-support-3.5.0/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundler/ruby/2.3.0/gems/rspec-support-3.5.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.4.2, rbenv: 2.3.0) [gem]" level="application" />
+  </component>
+</module>

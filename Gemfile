@@ -1,5 +1,4 @@
-# frozen_string_literal: true
 source 'https://rubygems.org'
 
-gem 'faraday'
-
+# Specify your gem's dependencies in line_notify.gemspec
+gemspec
